@@ -82,6 +82,7 @@ button:hover {
     display: flex;
     flex-direction: column-reverse;
     gap: 30px;
+    width: 95%;
   }
   .textContainer {
     display: flex;
